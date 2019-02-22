@@ -35,9 +35,9 @@ sections:
   path: _data/information.yml
   label: Contact Information
 upload_dir: ''
-public_path: ''
+public_path: http://res.cloudinary.com/brooklyn-rail/image/upload
 front_matter_path: ''
-use_front_matter_path: 
+use_front_matter_path: true
 file_template: ":filename:"
 build:
   preview_command: bundle exec jekyll build --drafts --unpublished --future -d _site
