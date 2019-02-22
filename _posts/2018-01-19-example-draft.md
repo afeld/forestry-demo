@@ -16,4 +16,4 @@ This is great for authoring work in progress content, or hiding content that sho
 
 ![](/uploads/2018/02/17/building.jpg)
 
-![](/v1550806407/IMG_0036.jpg)
+![sourdough](http://res.cloudinary.com/brooklyn-rail/image/upload/v1550806407/IMG_0036.jpg "bread bread")
