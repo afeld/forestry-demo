@@ -13,3 +13,4 @@ fields:
     - 2019-01
   label: Issue
   name: issue
+  default: 2019-02
