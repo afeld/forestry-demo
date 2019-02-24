@@ -40,4 +40,4 @@ fields:
   hidden: true
   default: post
 pages:
-- _posts/issues/my-article.md
+- _posts/issues/2019-02-24-my-article.md
